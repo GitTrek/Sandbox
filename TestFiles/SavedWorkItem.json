@@ -1,0 +1,140 @@
+{
+	"Id": 258928,
+	"Rev": 53,
+	"Fields": {
+		"System.AreaPath": "MarketingOperations\\DAM Team Stardust\\Priority",
+		"System.TeamProject": "MarketingOperations",
+		"System.IterationPath": "MarketingOperations",
+		"System.WorkItemType": "Bug",
+		"System.State": "Waiting On More Information",
+		"System.Reason": "Moved out of state To Do",
+		"System.AssignedTo": {
+			"DisplayName": "Leen Dekeukeleire",
+			"Url": "https://spsprodeus21.vssps.visualstudio.com/A7de4030d-7b53-4cc7-8fbe-89cba84d514d/_apis/Identities/1acefc46-72a6-6d30-bf4e-41a36f3a1adf",
+			"_links": {
+				"avatar": {
+					"Href": "https://dev.azure.com/marketingops/_apis/GraphProfile/MemberAvatars/aad.MWFjZWZjNDYtNzJhNi03ZDMwLWJmNGUtNDFhMzZmM2ExYWRm"
+				}
+			},
+			"id": "1acefc46-72a6-6d30-bf4e-41a36f3a1adf",
+			"uniqueName": "ldekeukeleire@attune.gshapps.net",
+			"imageUrl": "https://dev.azure.com/marketingops/_apis/GraphProfile/MemberAvatars/aad.MWFjZWZjNDYtNzJhNi03ZDMwLWJmNGUtNDFhMzZmM2ExYWRm",
+			"Descriptor": "aad.MWFjZWZjNDYtNzJhNi03ZDMwLWJmNGUtNDFhMzZmM2ExYWRm"
+		},
+		"System.CreatedDate": "2021-01-22T15:55:44.64Z",
+		"System.CreatedBy": {
+			"DisplayName": "CloudManager",
+			"Url": "https://spsprodeus21.vssps.visualstudio.com/A7de4030d-7b53-4cc7-8fbe-89cba84d514d/_apis/Identities/64ca94ec-2c7a-6462-9b9a-913b79416a51",
+			"_links": {
+				"avatar": {
+					"Href": "https://dev.azure.com/marketingops/_apis/GraphProfile/MemberAvatars/aad.NjRjYTk0ZWMtMmM3YS03NDYyLTliOWEtOTEzYjc5NDE2YTUx"
+				}
+			},
+			"id": "64ca94ec-2c7a-6462-9b9a-913b79416a51",
+			"uniqueName": "AlertService@attune.gshapps.net",
+			"imageUrl": "https://dev.azure.com/marketingops/_apis/GraphProfile/MemberAvatars/aad.NjRjYTk0ZWMtMmM3YS03NDYyLTliOWEtOTEzYjc5NDE2YTUx",
+			"Descriptor": "aad.NjRjYTk0ZWMtMmM3YS03NDYyLTliOWEtOTEzYjc5NDE2YTUx"
+		},
+		"System.ChangedDate": "2021-04-13T14:54:12.007Z",
+		"System.ChangedBy": {
+			"DisplayName": "Ida Engmark",
+			"Url": "https://spsprodeus21.vssps.visualstudio.com/A7de4030d-7b53-4cc7-8fbe-89cba84d514d/_apis/Identities/35efb87f-6dcc-615d-a3cd-f167a9092505",
+			"_links": {
+				"avatar": {
+					"Href": "https://dev.azure.com/marketingops/_apis/GraphProfile/MemberAvatars/aad.MzVlZmI4N2YtNmRjYy03MTVkLWEzY2QtZjE2N2E5MDkyNTA1"
+				}
+			},
+			"id": "35efb87f-6dcc-615d-a3cd-f167a9092505",
+			"uniqueName": "iengmark@attune.gshapps.net",
+			"imageUrl": "https://dev.azure.com/marketingops/_apis/GraphProfile/MemberAvatars/aad.MzVlZmI4N2YtNmRjYy03MTVkLWEzY2QtZjE2N2E5MDkyNTA1",
+			"Descriptor": "aad.MzVlZmI4N2YtNmRjYy03MTVkLWEzY2QtZjE2N2E5MDkyNTA1"
+		},
+		"System.CommentCount": 30,
+		"System.Title": "maintenance jobs with AI actions can still fail to complete due to rate limiting.",
+		"System.BoardColumn": "Waiting On More Information",
+		"System.BoardColumnDone": false,
+		"Microsoft.VSTS.Common.StateChangeDate": "2021-04-12T14:50:05.1Z",
+		"Microsoft.VSTS.Common.ResolvedReason": "Fixed",
+		"Microsoft.VSTS.Common.Priority": 2,
+		"Microsoft.VSTS.Common.Severity": "3 - Medium",
+		"Microsoft.VSTS.Common.ValueArea": "Business",
+		"Microsoft.VSTS.Scheduling.TargetDate": "2021-04-27T23:00:00Z",
+		"Microsoft.VSTS.Scheduling.StartDate": "2021-02-19T08:12:00Z",
+		"Microsoft.VSTS.Common.BacklogPriority": 249990118.0,
+		"WEF_676AC7FF241B49DAAA9FBE75599AD35D_Kanban.Column": "To Do",
+		"WEF_676AC7FF241B49DAAA9FBE75599AD35D_Kanban.Column.Done": false,
+		"MODevelopmentProcess.FeatureID": "None",
+		"MODevelopmentProcess.Client": "Philips Electronics Nederland BV",
+		"MODevelopmentProcess.SaaS": "Yes",
+		"MODevelopmentProcess.Module": "DAM - Maintenance framework",
+		"MODevelopmentProcess.Blocker": false,
+		"MODevelopmentProcess.IncidentManagementSystemID": "CS0034313",
+		"MODevelopmentProcess.RedZone": "None",
+		"MODevelopmentProcess.SiteID": "PHILIPSAPRPROD",
+		"MODevelopmentProcess.Webex": false,
+		"MODevelopmentProcess.Fiddler": false,
+		"MODevelopmentProcess.EventLogs": false,
+		"MODevelopmentProcess.IISLogs": false,
+		"MODevelopmentProcess.EventLogging": false,
+		"MODevelopmentProcess.PerfmonLogs": false,
+		"MODevelopmentProcess.MemoryDump": false,
+		"MODevelopmentProcess.DatabaseTrace": false,
+		"MODevelopmentProcess.AppInsights": false,
+		"MODevelopmentProcess.PublishinReleaseNotes": false,
+		"MODevelopmentProcess.DidNotAttempt": false,
+		"MODevelopmentProcess.Recreatedinbasewithbasedb": false,
+		"MODevelopmentProcess.Inbasewithcustomerdb": false,
+		"MODevelopmentProcess.Yesincustomersupportenvironment": false,
+		"MODevelopmentProcess.Yesonlyinremotecustomerenvironment": true,
+		"MODevelopmentProcess.Couldnotrecreateinanyenvironment": false,
+		"MODevelopmentProcess.ProductLine": "Aprimo",
+		"MODevelopmentProcess.AnalystName": "Harold Walls",
+		"MODevelopmentProcess.ReleaseVersion": "Not In Release",
+		"MODevelopmentProcess.ApplicationTier": "DAM Scheduled Jobs",
+		"WEF_814C347FF6924420B7F0DC66ADDF2DE1_Kanban.Column": "Waiting On More Information",
+		"WEF_814C347FF6924420B7F0DC66ADDF2DE1_Kanban.Column.Done": false,
+		"MODevelopmentProcess.Recreation": "Yes Only in remote customer environment",
+		"WEF_529330D9EC4944C9B7B1C4C7AADFE97E_Kanban.Column": "To Do",
+		"WEF_529330D9EC4944C9B7B1C4C7AADFE97E_Kanban.Column.Done": false,
+		"WEF_941355B0FA77430895436A0EAA8E5E04_Kanban.Column": "Waiting On More Information",
+		"WEF_941355B0FA77430895436A0EAA8E5E04_Kanban.Column.Done": false,
+		"MODevelopmentProcess.RiskLevel": "2 - Low",
+		"Custom.HistoryTargetDate": "2021-02-11T23:00:00Z",
+		"Custom.HistoryStartDate": "2021-02-19T08:12:01.727Z",
+		"Custom.OverrideStartDateCalculation": false,
+		"Custom.IncidentManagementSystemSyncType": "Major Case",
+		"Custom.TestPicklist": "Internal",
+		"WEF_8A49278DE76145598C7EB4DB6450240F_Kanban.Column": "Waiting On More Information",
+		"WEF_8A49278DE76145598C7EB4DB6450240F_Kanban.Column.Done": false,
+		"Custom.DatabaseCopyGranted": false,
+		"System.Description": "<div>Maintenance jobs on many records partially fail with the error &quot;Rate limit exceeded. Try again in 1 second.&quot;</div><div><br></div><div>This was not recreated in an Aprimo QA environment. I may be able to recreate with more work, but am submitting immediately as requested by Patricia Bracke and Scott Jacobs on Teams.</div><div><br></div><div>Microsoft ticket:&nbsp;121012524003444 to increase transactions per second from 10 to 150 for the following resources:</div><div><ul style=\"margin-bottom:0in;margin-top:0in;\">\n <li style=\"margin:0in 0in 0in 0.5in;font-size:11pt;font-family:Calibri, sans-serif;margin-left:0in;\"><i><span>prod-17eu2-cmpvis02-csa</span></i></li>\n <li style=\"margin:0in 0in 0in 0.5in;font-size:11pt;font-family:Calibri, sans-serif;margin-left:0in;\"><i><span>prod-17eu2-cmpvisface01-csa</span></i></li>\n <li style=\"margin:0in 0in 0in 0.5in;font-size:11pt;font-family:Calibri, sans-serif;margin-left:0in;\"><i><span>prod-17us1-cmpvis02-csa</span></i></li>\n <li style=\"margin:0in 0in 0in 0.5in;font-size:11pt;font-family:Calibri, sans-serif;margin-left:0in;\"><i><span>prod-17us1-cmpvisface01-csa</span></i></li></ul><div><font face=\"Calibri, sans-serif\"><span style=\"font-size:14.6667px;\"><i><br></i></span></font></div><div><font face=\"Calibri, sans-serif\"><span style=\"font-size:14.6667px;\">Dashboard:&nbsp;<a href=\"https://portal.azure.com/#@attune.gshapps.net/dashboard/arm/subscriptions/f3e2e7c5-21a3-4691-b121-da22a42359ad/resourcegroups/dashboards/providers/microsoft.portal/dashboards/2d184446-218c-4f61-9f8d-096476e37bf2\">https://portal.azure.com/#@attune.gshapps.net/dashboard/arm/subscriptions/f3e2e7c5-21a3-4691-b121-da22a42359ad/resourcegroups/dashboards/providers/microsoft.portal/dashboards/2d184446-218c-4f61-9f8d-096476e37bf2</a></span></font></div><br></div>",
+		"Microsoft.VSTS.TCM.ReproSteps": "<div>01)\tMenu: Digital Asset Management &gt;&gt; Launch Assets</div><div>02)\tUse search or browse to find many records (customer is processing ~9,000 records at a time)</div><div>03)\tClick Select All at top</div><div>04)\tOn menu bar at bottom, click Create job</div><div>05)\tIn Add Actions, select Extract information with Aprimo AI</div><div>06)\tClick Create</div><div>07)\tGo to System Studio</div><div>08)\tMenu: System &gt;&gt; Advanced &gt;&gt; Job log</div><div>09)\tLook through the Job log and find maintenance jobs that failed or partially failed. The reason will likely be &quot;Rate limit exceeded. Try again in 1 second&quot;. If you retry the job, the job will succeed.</div><div><br></div><div><br></div><div>FYI this needs sufficient maintenance handlers so that a lot of jobs are handled in parallel.</div>",
+		"Microsoft.VSTS.Common.Resolution": "<div>The AI request will now be retried with an interval of 1, 2, 4, 8, 15, 30, 30, ... seconds. The number of allowed requests per second was also increased to 150 requests per second. This should be enough to cover the average of 60 requests per second, with a peak of 140 requests per second that are seen when a customer submits a lot of maintenance jobs with AI actions.<br></div>",
+		"MODevelopmentProcess.RiskDetails": "<div>The AI request will now be retried. This could block the maintenance job up to 10 minutes. The chance that happens is very low though, since allow rate limit was increased significantly.<br></div>",
+		"System.Tags": "PM_Reviewed"
+	},
+	"_links": {
+		"self": {
+			"Href": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_apis/wit/workItems/258928"
+		},
+		"workItemUpdates": {
+			"Href": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_apis/wit/workItems/258928/updates"
+		},
+		"workItemRevisions": {
+			"Href": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_apis/wit/workItems/258928/revisions"
+		},
+		"workItemComments": {
+			"Href": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_apis/wit/workItems/258928/comments"
+		},
+		"html": {
+			"Href": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_workitems/edit/258928"
+		},
+		"workItemType": {
+			"Href": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_apis/wit/workItemTypes/Bug"
+		},
+		"fields": {
+			"Href": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_apis/wit/fields"
+		}
+	},
+	"Url": "https://dev.azure.com/marketingops/fe707909-f920-4151-b295-29f1d1e75893/_apis/wit/workItems/258928"
+}

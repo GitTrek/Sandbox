@@ -9,6 +9,7 @@ using Newtonsoft.Json.Linq;
 using Sandbox1.Tests;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -515,6 +516,16 @@ three";
 			var caseId = patchDoc.Where(op => op.Path == areaPath).Select(op => op.Value).FirstOrDefault();
 
 			Console.WriteLine(caseId);
+		}
+		[Tool(19, "Test Work Item Serialize")]
+		public void TestWorkItemSerialize()
+		{
+			var jsonText = File.ReadAllText("TestFiles/SavedWorkItem.json");
+			var savedWorkItemForNewtonSoft = JsonConvert.DeserializeObject<WorkItem>(jsonText);
+			Console.WriteLine($"savedWorkItemForNewtonSoft is not null: {savedWorkItemForNewtonSoft != null}");
+			var savedWorkItemForMS = Json.JsonSerializer.Deserialize<WorkItem>(jsonText);
+			Console.WriteLine($"savedWorkItemForMS is not null: {savedWorkItemForMS != null}");
+
 		}
 	}
 
